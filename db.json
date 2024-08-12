@@ -1,0 +1,717 @@
+{
+  "expenses": [
+    {
+      "title": "House Loan",
+      "amount": "10000",
+      "date": "2024-05-01",
+      "info": "EMI",
+      "id": 1
+    },
+    {
+      "title": "Shopping",
+      "amount": "1280",
+      "date": "2024-05-01",
+      "info": "Dress",
+      "id": 2
+    },
+    {
+      "title": "Travel",
+      "amount": "15000",
+      "date": "2024-04-29",
+      "info": "food,petrol",
+      "id": 3
+    },
+    {
+      "title": "Travel",
+      "amount": "2000",
+      "date": "2024-05-15",
+      "info": "petrol",
+      "userId": "9",
+      "id": 4
+    },
+    {
+      "title": "food",
+      "amount": "555",
+      "date": "2024-05-13",
+      "info": "kk",
+      "userId": "8",
+      "id": 5
+    },
+    {
+      "title": "travel",
+      "amount": "2000",
+      "date": "2024-05-07",
+      "info": "petrol,food",
+      "userId": "7",
+      "id": 6
+    },
+    {
+      "title": "shopping",
+      "amount": "2500",
+      "date": "2024-05-13",
+      "info": "grocery",
+      "userId": "7",
+      "id": 7
+    },
+    {
+      "title": "fkgn",
+      "amount": "30000",
+      "date": "2024-05-01",
+      "info": "ejrkw",
+      "userId": "10",
+      "id": 8
+    },
+    {
+      "title": "jsdf",
+      "amount": "40000",
+      "date": "2024-05-02",
+      "info": "kjewrn",
+      "id": 9
+    },
+    {
+      "title": "rkjgnt",
+      "amount": "40000",
+      "date": "2024-05-03",
+      "info": "rwt",
+      "id": 10
+    },
+    {
+      "title": "er",
+      "amount": "30000",
+      "date": "2024-05-02",
+      "info": "re",
+      "id": 12
+    },
+    {
+      "title": "fhrbg",
+      "amount": "666666",
+      "date": "2024-05-03",
+      "info": "erjgt",
+      "id": 13
+    },
+    {
+      "title": "hhjn",
+      "amount": "70000",
+      "date": "2024-05-02",
+      "info": "ynk",
+      "id": 15
+    },
+    {
+      "title": "rekjn",
+      "amount": "50000",
+      "date": "2024-05-08",
+      "info": "43rn53kj",
+      "id": 17
+    },
+    {
+      "title": "shdf",
+      "amount": "3000",
+      "date": "2024-05-02",
+      "info": "erkjg",
+      "id": 19
+    },
+    {
+      "title": "shrgt",
+      "amount": "5000",
+      "date": "2024-05-17",
+      "info": "drngb",
+      "id": 21
+    },
+    {
+      "title": "srjg",
+      "amount": "45000",
+      "date": "2024-05-08",
+      "info": "jkef",
+      "id": 23
+    },
+    {
+      "title": "dkmfv",
+      "amount": "90000",
+      "date": "2024-05-08",
+      "info": "fnv",
+      "userId": "10",
+      "id": 24
+    },
+    {
+      "title": "fjv",
+      "amount": "45000",
+      "date": "2024-05-02",
+      "info": "dm",
+      "id": 25
+    },
+    {
+      "title": "food",
+      "amount": "5000",
+      "date": "2024-05-02",
+      "info": "ddk",
+      "userId": "11",
+      "id": 26
+    },
+    {
+      "title": "travel",
+      "amount": "10000",
+      "date": "2024-05-03",
+      "info": "dn",
+      "id": 27
+    },
+    {
+      "title": "lxjfg",
+      "amount": "50000",
+      "date": "2024-05-02",
+      "info": "sdjfs",
+      "userId": "11",
+      "id": 28
+    },
+    {
+      "title": "sijf",
+      "amount": "500000",
+      "date": "2024-05-01",
+      "info": "fk",
+      "id": 29
+    },
+    {
+      "title": "eth",
+      "amount": "50000",
+      "date": "2024-05-09",
+      "info": "dgj",
+      "userId": "13",
+      "id": 30
+    },
+    {
+      "title": "fkjg",
+      "amount": "40000",
+      "date": "2024-05-02",
+      "info": "erkth",
+      "id": 31
+    },
+    {
+      "title": "hk",
+      "amount": "9000",
+      "date": "2024-05-02",
+      "info": "jy",
+      "userId": "13",
+      "id": 32
+    },
+    {
+      "title": "sr,gjh",
+      "amount": "5000",
+      "date": "2024-05-01",
+      "info": "ertjb",
+      "userId": "13",
+      "id": 33
+    },
+    {
+      "title": "Loan",
+      "amount": "30000",
+      "date": "2024-07-29",
+      "info": "jhrje",
+      "userId": "17",
+      "id": 34
+    },
+    {
+      "title": "Food",
+      "amount": "10000",
+      "date": "2024-08-06",
+      "info": "werhg",
+      "userId": "17",
+      "id": 35
+    }
+  ],
+  "incomes": [
+    {
+      "title": "Freelance",
+      "amount": "20000",
+      "date": "2024-04-19",
+      "reference": "First",
+      "id": 1
+    },
+    {
+      "title": "Developer",
+      "amount": "35000",
+      "date": "2024-04-20",
+      "reference": "Second",
+      "id": 2
+    },
+    {
+      "title": "jgk",
+      "amount": "100000",
+      "date": "2024-04-03",
+      "reference": "jgk",
+      "id": 4
+    },
+    {
+      "title": "xghh",
+      "amount": "3000",
+      "date": "2024-05-13",
+      "reference": "df",
+      "userId": "8",
+      "id": 6
+    },
+    {
+      "title": "salary",
+      "amount": "40000",
+      "date": "2024-05-01",
+      "reference": "..",
+      "userId": "9",
+      "id": 7
+    },
+    {
+      "title": "salary",
+      "amount": "35000",
+      "date": "2024-05-01",
+      "reference": "salary credited",
+      "userId": "7",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "title": "developersss",
+      "amount": "20000",
+      "date": "2024-05-01",
+      "reference": "firsr"
+    },
+    {
+      "id": 10,
+      "title": "c",
+      "amount": "90000",
+      "date": "2024-05-01",
+      "reference": "hb"
+    },
+    {
+      "title": "developer",
+      "amount": "20000",
+      "date": "2024-05-01",
+      "reference": "fmngj",
+      "id": 11
+    },
+    {
+      "title": "sdjf",
+      "amount": "60000",
+      "date": "2024-05-04",
+      "reference": "sjrhk",
+      "id": 13
+    },
+    {
+      "title": "krjnfk",
+      "amount": "50000",
+      "date": "2024-05-03",
+      "reference": "wnm t",
+      "id": 15
+    },
+    {
+      "title": "fgn",
+      "amount": "50000",
+      "date": "2024-04-30",
+      "reference": "wkjtn",
+      "id": 17
+    },
+    {
+      "title": "ret",
+      "amount": "30000",
+      "date": "2024-05-01",
+      "reference": "ewmrn",
+      "id": 18
+    },
+    {
+      "title": "rgj",
+      "amount": "60000",
+      "date": "2024-05-09",
+      "reference": "rejg",
+      "id": 20
+    },
+    {
+      "title": "kjsd",
+      "amount": "50000",
+      "date": "2024-05-02",
+      "reference": "rigj",
+      "id": 22
+    },
+    {
+      "title": "jg",
+      "amount": "70000",
+      "date": "2024-05-02",
+      "reference": "ekjrg",
+      "id": 23
+    },
+    {
+      "title": "kdjf",
+      "amount": "50000",
+      "date": "2024-05-08",
+      "reference": "rmejg",
+      "id": 24
+    },
+    {
+      "title": "fng",
+      "amount": "40000",
+      "date": "2024-05-02",
+      "reference": "wrng ",
+      "id": 25
+    },
+    {
+      "title": "trjknkr",
+      "amount": "50000",
+      "date": "2024-05-08",
+      "reference": "5kjtrnek",
+      "id": 27
+    },
+    {
+      "title": "ktjnhrk",
+      "amount": "50000",
+      "date": "2024-05-01",
+      "reference": "tene",
+      "id": 29
+    },
+    {
+      "title": "rhj",
+      "amount": "59999",
+      "date": "2024-05-08",
+      "reference": "th",
+      "id": 30
+    },
+    {
+      "title": "trnh",
+      "amount": "2000",
+      "date": "2024-05-23",
+      "reference": "rgmn",
+      "id": 31
+    },
+    {
+      "title": "rtkhn",
+      "amount": "5000",
+      "date": "2024-05-09",
+      "reference": "erknre",
+      "id": 33
+    },
+    {
+      "title": "dfkjgn",
+      "amount": "70000",
+      "date": "2024-05-02",
+      "reference": "tjng",
+      "id": 35
+    },
+    {
+      "title": "jh",
+      "amount": "80000",
+      "date": "2024-05-01",
+      "reference": " mnm",
+      "id": 37
+    },
+    {
+      "title": "g",
+      "amount": "7000",
+      "date": "2024-05-02",
+      "reference": "hbj",
+      "id": 38
+    },
+    {
+      "title": "jgu",
+      "amount": "1000",
+      "date": "2024-05-09",
+      "reference": "kj",
+      "id": 40
+    },
+    {
+      "title": "wkjrh",
+      "amount": "5000",
+      "date": "2024-05-02",
+      "reference": "ertkj",
+      "id": 41
+    },
+    {
+      "title": "ejbhg",
+      "amount": "2000",
+      "date": "2024-05-10",
+      "reference": "sjrje",
+      "id": 43
+    },
+    {
+      "title": "jhgh",
+      "amount": "3000",
+      "date": "2024-05-08",
+      "reference": "jhvhjbh",
+      "id": 45
+    },
+    {
+      "title": "sdfh",
+      "amount": "7999",
+      "date": "2024-05-03",
+      "reference": "sj",
+      "id": 46
+    },
+    {
+      "title": ",snf",
+      "amount": "70000",
+      "date": "2024-05-01",
+      "reference": "fn",
+      "userId": "10",
+      "id": 47
+    },
+    {
+      "title": "jfn",
+      "amount": "6000",
+      "date": "2024-05-07",
+      "reference": "dsnf ",
+      "userId": "10",
+      "id": 48
+    },
+    {
+      "title": "mjvh",
+      "amount": "80888",
+      "date": "2024-05-08",
+      "reference": "hgjnh",
+      "userId": "10",
+      "id": 54
+    },
+    {
+      "title": "fj",
+      "amount": "40000",
+      "date": "2024-05-09",
+      "reference": "gfrjds",
+      "userId": "12",
+      "id": 55
+    },
+    {
+      "title": "rfg",
+      "amount": "30000",
+      "date": "2024-05-09",
+      "reference": "erjw",
+      "userId": "12",
+      "id": 56
+    },
+    {
+      "title": "dfh",
+      "amount": "13000",
+      "date": "2024-05-08",
+      "reference": "fg,dj",
+      "userId": "12",
+      "id": 57
+    },
+    {
+      "title": "jg",
+      "amount": "6000",
+      "date": "2024-05-02",
+      "reference": "jkg",
+      "userId": "12",
+      "id": 58
+    },
+    {
+      "title": "lekrj",
+      "amount": "50000",
+      "date": "2024-05-02",
+      "reference": "welk",
+      "userId": "11",
+      "id": 59
+    },
+    {
+      "title": "rktjnkj",
+      "amount": "40000",
+      "date": "2024-05-02",
+      "reference": "rtj",
+      "userId": "11",
+      "id": 60
+    },
+    {
+      "title": "egfbj",
+      "amount": "5000",
+      "date": "2024-05-08",
+      "reference": "rth",
+      "userId": "11",
+      "id": 61
+    },
+    {
+      "title": "jhd",
+      "amount": "6000",
+      "date": "2024-05-03",
+      "reference": "eljt",
+      "userId": "11",
+      "id": 62
+    },
+    {
+      "title": "skughe",
+      "amount": "50000",
+      "date": "2024-05-01",
+      "reference": "kfjg",
+      "userId": "13",
+      "id": 63
+    },
+    {
+      "title": "lfjg",
+      "amount": "40000",
+      "date": "2024-05-02",
+      "reference": "rjg",
+      "userId": "13",
+      "id": 64
+    },
+    {
+      "title": "fjn",
+      "amount": "4000",
+      "date": "2024-05-01",
+      "reference": "jehr",
+      "userId": "13",
+      "id": 65
+    },
+    {
+      "title": "rkjg",
+      "amount": "6000",
+      "date": "2024-05-01",
+      "reference": "erjgn",
+      "userId": "13",
+      "id": 66
+    },
+    {
+      "title": "jrhk",
+      "amount": "5000",
+      "date": "2024-06-04",
+      "reference": "ertnkj",
+      "userId": "1",
+      "id": 67
+    },
+    {
+      "title": "ejjkr",
+      "amount": "6000",
+      "date": "2024-06-06",
+      "reference": "jbgrjre",
+      "userId": "1",
+      "id": 68
+    },
+    {
+      "title": "Developer",
+      "amount": "50000",
+      "date": "2024-08-07",
+      "reference": "smndk",
+      "userId": "17",
+      "id": 69
+    },
+    {
+      "title": "Tuition",
+      "amount": "30000",
+      "date": "2024-08-08",
+      "reference": "sjdh",
+      "userId": "17",
+      "id": 70
+    },
+    {
+      "title": "Freelance",
+      "amount": "30000",
+      "date": "2024-08-08",
+      "reference": "cjvhfd",
+      "userId": "17",
+      "id": 71
+    }
+  ],
+  "users": [
+    {
+      "name": "hari",
+      "email": "hari@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 1
+    },
+    {
+      "name": "harikrishna",
+      "email": "harikrishna@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 2
+    },
+    {},
+    {
+      "name": "christo",
+      "email": "christoo@123",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 4
+    },
+    {
+      "name": "hari123",
+      "email": "hari123@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 5
+    },
+    {
+      "name": "hari2",
+      "email": "hari2@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 6
+    },
+    {
+      "name": "anjana prakash",
+      "email": "anjana@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 7
+    },
+    {
+      "name": "maria",
+      "email": "maria@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 8
+    },
+    {
+      "name": "seb123",
+      "email": "seb@gmail.com",
+      "password": "234",
+      "confirmPassword": "234",
+      "id": 9
+    },
+    {
+      "name": "Sneha Mohandas",
+      "email": "sneha123@gmail.com",
+      "password": "sneha@123",
+      "confirmPassword": "sneha@123",
+      "id": 10
+    },
+    {
+      "name": "aromal",
+      "email": "aromal123@gmail.com",
+      "password": "aromal@123",
+      "confirmPassword": "aromal@123",
+      "id": 11
+    },
+    {
+      "name": "mathew",
+      "email": "mathew123@gmail.com",
+      "password": "mathew@123",
+      "confirmPassword": "mathew@123",
+      "id": 12
+    },
+    {
+      "name": "Arthana",
+      "email": "arthana123@gmail.com",
+      "password": "arthana@123",
+      "confirmPassword": "arthana@123",
+      "id": 13
+    },
+    {
+      "name": "j",
+      "email": "j@gmsil.com",
+      "password": "j@123",
+      "confirmPassword": "j@123",
+      "id": 14
+    },
+    {
+      "name": "hi",
+      "email": "hi123@gmail.com",
+      "password": "hi@123",
+      "confirmPassword": "hi@123",
+      "id": 15
+    },
+    {
+      "name": "kejrsdf",
+      "email": "nkjrhgkdr",
+      "password": "sneha@123",
+      "confirmPassword": "sneha@123",
+      "id": 16
+    },
+    {
+      "name": "Jobin",
+      "email": "jobin@gmail.com",
+      "password": "jobin123",
+      "confirmPassword": "jobin123",
+      "id": 17
+    }
+  ]
+}
